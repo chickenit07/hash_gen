@@ -11,9 +11,6 @@ I made this script to help auto generate the hash (MD5 and SHA256).
 The input file input.txt should contains 2 lines like below: 
 
 username
-
 timestamp
-
-then
 
 $python3 hash_gen.py input.txt
